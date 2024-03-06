@@ -149,9 +149,7 @@ button:hover {
   
 a {
     color: #4CAF50;
-    text-decoration: none;
-    margin-top: 10px;
-    margin-right: 10px;
+    margin: 10px 10px 0 0;
     padding-bottom: 5px;
     display: block;
     text-align: center;
